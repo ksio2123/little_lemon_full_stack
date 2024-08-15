@@ -1,0 +1,5 @@
+bin/
+lib/
+lib64
+db.sqlite3
+.DS_Store
